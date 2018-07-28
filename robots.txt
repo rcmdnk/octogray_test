@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://rcmdnk.github.io/octogray_test/sitemap.xml

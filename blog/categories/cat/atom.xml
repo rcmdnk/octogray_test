@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Cat | My Octopress Blog]]></title>
+  <link href="http://rcmdnk.github.io/octogray_test/blog/categories/cat/atom.xml" rel="self"/>
+  <link href="http://rcmdnk.github.io/octogray_test/"/>
+  <updated>2018-07-28T01:51:13+00:00</updated>
+  <id>http://rcmdnk.github.io/octogray_test/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://rcmdnk.github.io/octogray_test/blog/2018/07/28/test/"/>
+    <updated>2018-07-28T01:51:11+00:00</updated>
+    <id>http://rcmdnk.github.io/octogray_test/blog/2018/07/28/test</id>
+    <content type="html"><![CDATA[<p>This is test post.
+<!-- more --></p>
+
+<ul id="markdown-toc">
+  <li><a href="#test-sectiontest" id="markdown-toc-test-sectiontest">Test Sectiontest</a></li>
+</ul>
+<div class="group"></div>
+
+<h1 id="test-sectiontest">Test Sectiontest</h1>
+<p>test Sat Jul 28 01:51:11 UTC 2018 test.</p>
+
+<p><a href="http://rcmdnk.github.io/octogray_test/others/codetest/">Code test</a></p>
+]]></content>
+  </entry>
+  
+</feed>
