@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tag: tag | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/tags/tag/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2021-08-28T02:09:50+00:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://yoursite.com/blog/2021/08/28/test/"/>
+    <updated>2021-08-28T02:09:49+00:00</updated>
+    <id>http://yoursite.com/blog/2021/08/28/test</id>
+    <content type="html"><![CDATA[<p>This is test post.
+<!-- more --></p>
+
+<ul id="markdown-toc">
+  <li><a href="#test-sectiontest" id="markdown-toc-test-sectiontest">Test Sectiontest</a></li>
+</ul>
+<div class="group"></div>
+
+<h1 id="test-sectiontest">Test Sectiontest</h1>
+<p>test Sat Aug 28 02:09:49 UTC 2021 test.</p>
+
+<p><a href="http://yoursite.com/others/codetest/">Code test</a></p>
+]]></content>
+  </entry>
+  
+</feed>
